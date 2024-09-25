@@ -101,7 +101,14 @@ nav div:hover a {
     position: absolute;
     bottom: 0px;
     padding: 50px 26px;
+    display: flex;
+    justify-content: center;
     gap: 5px;
+}
+
+.rejouice{
+    width: 100%;
+    margin: auto;
 }
 
 .rejouice span {
