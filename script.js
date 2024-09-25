@@ -276,7 +276,7 @@ page4CounterAnimation();
 // Page 5 animation
 function page5Animation() {
     gsap.from('.topContent1 .headings1 span, .topContent1 .paraContainer1 span', {
-        y: 120,
+        y: 110,
         opacity: 0,
         stagger: 0.2,
         duration: 0.9,
@@ -371,25 +371,34 @@ function page8midAnimation() {
 page8midAnimation();
 
 function page8rejouiceAnimation() {
-    var tl = gsap.timeline({
-        scrollTrigger: {
-            trigger: ".page8",
-            start: "top 10%",
-            end: "top 80%",
-            scroller: ".main",
-            scrub: 2,
-        }
-    });
+    // Check if the screen width is greater than 640px
+    if (window.innerWidth > 640) {
+        var tl = gsap.timeline({
+            scrollTrigger: {
+                trigger: ".page8",
+                start: "top 10%",
+                end: "top 80%",
+                scroller: ".main",
+                scrub: 2,
+            }
+        });
 
-    // Add a delay before the animation starts
-    tl.set({}, {}, "+=50") // Adjust the delay here, e.g., "+=5" for a 5-second delay
+        // Add a delay before the animation starts
+        tl.set({}, {}, "+=50") // Adjust the delay here, e.g., "+=5" for a 5-second delay
 
-    tl.from('.bottomContent4 .rejouice2 span .r, .bottomContent4 .rejouice2 span .e, .bottomContent4 .rejouice2 span .j, .bottomContent4 .rejouice2 span .o, .bottomContent4 .rejouice2 span .u, .bottomContent4 .rejouice2 span .i, .bottomContent4 .rejouice2 span .c', {
-        y: -50,
-        opacity: 0,
-        stagger: 9,
-        duration: 100
-    });
+        tl.from('.bottomContent4 .rejouice2 span .r, .bottomContent4 .rejouice2 span .e, .bottomContent4 .rejouice2 span .j, .bottomContent4 .rejouice2 span .o, .bottomContent4 .rejouice2 span .u, .bottomContent4 .rejouice2 span .i, .bottomContent4 .rejouice2 span .c', {
+            y: -50,
+            opacity: 0,
+            stagger: 9,
+            duration: 100
+        });
+    }
 }
 
+// Run the function initially
 page8rejouiceAnimation();
+
+// Optionally, add a resize event listener to handle changes dynamically
+window.addEventListener('resize', function() {
+    page8rejouiceAnimation();
+});

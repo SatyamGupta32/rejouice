@@ -428,8 +428,8 @@ nav div:hover a {
     align-items: center;
     transform: translate(-50%, -50%);
     position: relative;
-    top: 20%;
-    left: 6%;
+    top: 25%;
+    left: 5%;
 }
 
 .bottomContent .counter {

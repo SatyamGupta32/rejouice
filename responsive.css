@@ -1,0 +1,772 @@
+@media screen and (max-width:1300px) {
+    .page1-content .r {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page1-content .e {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page1-content .j {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page1-content .o {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page1-content .u {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page1-content .i {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page1-content .c {
+        width: 155px;
+        height: 160px;
+    }
+
+    .page2 {
+        padding: 40px;
+    }
+
+    .elem .headings {
+        font-size: 30px;
+    }
+
+    .elem .paraContainer {
+        font-size: 50px;
+        line-height: 70px;
+        margin: auto;
+    }
+
+    
+    .page4 {
+        padding: 40px;
+    }
+
+    .topContent .headings {
+        font-size: 30px;
+        font-weight: 300;
+    }
+
+    .topContent .paraContainer {
+        font-size: 55px;
+        line-height: 70px;
+        font-weight: 400;
+    }
+
+    
+    .bottomContent .page4-content {
+        height: 100vh;
+        position: relative;
+        margin-bottom: 400px;
+    }
+
+    .bottomContent .seats {
+        top: 40%;
+        left: 8%;
+    }
+
+    .bottomContent .counter {
+        font-size: 80px;
+    }
+
+    .bottomContent .seat-line1 {
+        font-size: 70px;
+    }
+
+    .bottomContent .seat-line2 {
+        font-size: 26px;
+        font-weight: 200;
+    }
+
+    .page5 {
+        padding: 40px;
+    }
+
+    .topContent1 .headings1 {
+        font-size: 30px;
+    }
+
+    .topContent1 .paraContainer1 {
+        font-size: 55px;
+        line-height: 70px;
+        font-weight: 400;
+    }
+
+    
+    .page6 .swipperContainer {
+        position: absolute;
+        width: 100%;
+        top: 12%;
+
+    }
+
+    .topContent2 .headings2 {
+        align-items: center;
+    }
+
+    .topContent2 h2 {
+        font-size: 80px;
+    }
+
+    .topContent2 .enterContact {
+        padding-bottom: 0;
+    }
+
+    .enterContact .contact {
+        font-size: 18px;
+    }
+
+    
+    .page8 .midContent4 {
+        margin-top: 120px;
+        font-size: 20px;
+    }
+    
+    .rejouice2 span {
+        display: inline-block;
+        height: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .r {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .e {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .j {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .o {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .u {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .i {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .c {
+        width: 150px;
+        height: 160px;
+    }
+
+    .bottomContent4 .rejouice2 {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        margin-top: 80px;
+    }
+
+}
+
+@media screen and (max-width:1024px) {
+
+    .page1-content .r {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page1-content .e {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page1-content .j {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page1-content .o {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page1-content .u {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page1-content .i {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page1-content .c {
+        width: 80px;
+        height: 80px;
+    }
+
+    .page2 {
+        padding: 40px 20px;
+    }
+
+    .elem .headings {
+        font-size: 20px;
+    }
+
+    .elem .paraContainer {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .page3 .explore {
+        font-size: 60px;
+        line-height: 50px;
+    }
+
+    .page3 .videoContainer {
+        padding: 40px 10px;
+        width: 100%;
+    }
+
+    .videoContainer .videoHeadings {
+        font-size: 18px;
+        align-items: center;
+    }
+
+    .videoContainer .videos {
+        flex-direction: column;
+    }
+
+    .video1,
+    .video2,
+    .video3 {
+        width: 100%;
+    }
+
+
+    .page4 {
+        padding: 40px 12px;
+    }
+
+    .topContent .headings {
+        font-size: 20px;
+        font-weight: 300;
+    }
+
+    .topContent .paraContainer {
+        font-size: 36px;
+        line-height: 40px;
+        font-weight: 400;
+    }
+
+    .page4 .bottomContent {
+        width: 100%;
+    }
+
+    .bottomContent .page4-content {
+        height: 100vh;
+        position: relative;
+        margin-bottom: 0;
+    }
+
+    .bottomContent .circle {
+        width: 620px;
+        height: 620px;
+        position: absolute;
+        z-index: 9;
+        top: 150px;
+    }
+
+    .bottomContent video {
+        position: absolute;
+        top: 0;
+        width: 950px;
+        height: 950px;
+        object-fit: cover;
+    }
+
+    .bottomContent .timer {
+        width: 620px;
+        height: 620px;
+        position: absolute;
+        top: 150px;
+        z-index: 10;
+    }
+
+    .bottomContent .seats {
+        top: -20px;
+        left: 15%;
+    }
+
+    .bottomContent .counter {
+        font-size: 80px;
+    }
+
+    .bottomContent .seat-line1 {
+        font-size: 70px;
+    }
+
+    .bottomContent .seat-line2 {
+        font-size: 25px;
+    }
+
+    .page5 {
+        padding: 40px 15px;
+    }
+
+    .topContent1 .headings1 {
+        font-size: 22px;
+    }
+
+    .topContent1 .paraContainer1 {
+        font-size: 36px;
+        line-height: 40px;
+        font-weight: 400;
+    }
+
+    .topContent2 .headings2 {
+        align-items: center;
+    }
+
+    .topContent2 h2 {
+        font-size: 60px;
+    }
+
+    .topContent2 .enterContact {
+        padding-bottom: 0;
+    }
+
+    .enterContact .contact {
+        font-size: 16px;
+    }
+
+    .rejouice2 span {
+        display: inline-block;
+        height: 70px;
+        height: 70px;
+    }
+
+    .bottomContent4 .r {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .e {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .j {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .o {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .u {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .i {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .c {
+        width: 82px;
+        height: 100px;
+    }
+
+    .bottomContent4 .rejouice2 {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        margin: 100px auto;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+    .bottomContent .seats {
+        top: -70px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .bottomContent .seats {
+        top: 50px;
+        left: 15%;
+    }
+}
+
+@media screen and (max-width:640px) {
+    nav {
+        padding: 20px;
+        font-size: 18px;
+    }
+
+    .loader {
+        font-size: 20px;
+    }
+
+    .page1 .cursor {
+        width: 80px;
+        height: 80px;
+        font-size: 12px;
+    }
+
+    .bottomContent .cursor {
+        width: 80px;
+        height: 80px;
+        font-size: 12px;
+    }
+
+    .page1-content .rejouice {
+        padding: 5px;
+    }
+
+    .page1-content .r {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page1-content .e {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page1-content .j {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page1-content .o {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page1-content .u {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page1-content .i {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page1-content .c {
+        width: 45px;
+        height: 50px;
+    }
+
+    .page2 {
+        height: 60vh;
+        padding: 40px 12px;
+    }
+
+    .elem .headings {
+        font-size: 14px;
+    }
+
+    .elem .paraContainer {
+        font-size: 16px;
+        line-height: 25px;
+        font-weight: 600;
+        padding: 20px;
+    }
+
+    .page3 {
+        min-height: 60vh;
+    }
+
+    .page3 .explore {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .page3 .videoContainer {
+        padding: 40px 12px;
+    }
+
+    .videoContainer .videoHeadings {
+        font-size: 12px;
+        align-items: center;
+    }
+
+    .videoContai6er .videos {
+        flex-direction: column;
+    }
+
+    .videoContainer .videos {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+
+    .video1,
+    .video2,
+    .video3 {
+        width: 100%;
+        height: 950px;
+    }
+
+    .page4 {
+        min-height: 90vh;
+        padding: 40px 12px;
+    }
+
+    .topContent .headings {
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    .topContent .paraContainer {
+        font-size: 16px;
+        line-height: 25px;
+        font-weight: 600;
+        padding: 5px;
+    }
+
+    .page4 .bottomContent {
+        width: 100%;
+    }
+
+    .bottomContent .page4-content {
+        height: 40vh;
+        margin-bottom: 200px;
+        position: relative;
+    }
+
+    .bottomContent .circle {
+        width: 420px;
+        height: 420px;
+        position: absolute;
+        z-index: 9;
+        top: 50px;
+    }
+
+    .bottomContent video {
+        position: absolute;
+        top: 0;
+        width: 600px;
+        height: 600px;
+        object-fit: cover;
+    }
+
+    .bottomContent .timer {
+        width: 420px;
+        height: 420px;
+        position: absolute;
+        top: 50px;
+        z-index: 10;
+        /* transform: rotateZ(220deg); */
+    }
+
+    .bottomContent .seats {
+        top: 150px;
+        left: 22%;
+        transform: translate(-50%, -50%);
+    }
+
+    .bottomContent .counter {
+        font-size: 50px;
+    }
+
+    .bottomContent .seat-line1 {
+        font-size: 50px;
+    }
+
+    .bottomContent .seat-line2 {
+        font-size: 18px;
+    }
+
+    .page5 {
+        min-height: 60vh;
+        padding: 40px 12px;
+    }
+
+    .topContent1 .headings1 {
+        font-size: 14px;
+    }
+
+    .topContent1 .paraContainer1 {
+        font-size: 16px;
+        line-height: 25px;
+        font-weight: 600;
+        padding: 20px;
+    }
+
+    .page6 {
+        min-height: 70vh;
+    }
+
+    .topContent2 .headings2 {
+        align-items: center;
+    }
+
+    .topContent2 h2 {
+        font-family: "Rejouice Headline", sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        word-spacing: -5px;
+    }
+
+    .topContent2 .enterContact {
+        padding-bottom: 0;
+    }
+
+    .enterContact .contact {
+        font-size: 12px;
+    }
+
+    .page6 .swipperContainer {
+        position: absolute;
+        width: 100%;
+        top: 10%;
+
+    }
+
+    .page7 .bottomContent3 {
+        font-size: 50px;
+        font-weight: 400;
+        line-height: 40px;
+    }
+
+    .page8 {
+        padding: 30px;
+    }
+
+    .page8 .topContent4 {
+        padding: 5px;
+    }
+
+    .topContent4 .top-left .heading4 {
+        font-size: 16px;
+    }
+
+    .topContent4 .top-left .takeSeat {
+        font-size: 12px;
+        padding: 10px 25px;
+    }
+
+    .topContent4 .top-left .takeSeat:hover {
+        color: #0E0E0E;
+        background-color: #FFFCF1;
+    }
+
+    .topContent4 .top-right {
+        display: flex;
+        gap: 50px;
+        flex-direction: column;
+    }
+
+    .topContent4 .top-right .services {
+        font-size: 14px;
+    }
+
+    .topContent4 .top-right .socialMedia {
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+    }
+
+    .flex {
+        position: relative;
+        display: flex;
+        width: fit-content;
+        font-size: 14px;
+    }
+
+    .page8 .midContent4 {
+        margin-top: 150px;
+        font-size: 14px;
+    }
+
+    .midContent4 .mid-right {
+        gap: 0px;
+        flex-direction: column;
+    }
+
+    .bottomContent4 {
+        position: relative;
+    }
+
+    .bottomContent4 .rejouice2 {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        margin: 100px auto;
+    }
+
+    .rejouice2 span {
+        display: inline-block;
+        height: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .r {
+        width: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .e {
+        width: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .j {
+        width: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .o {
+        width: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .u {
+        width: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .i {
+        width: 30px;
+        height: 30px;
+    }
+
+    .bottomContent4 .c {
+        width: 30px;
+        height: 30px;
+    }
+
+}
+
+@media screen and (max-width:400px) {
+    .bottomContent .seats {
+        top: 150px;
+    }
+}
