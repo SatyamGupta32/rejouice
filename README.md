@@ -20,11 +20,12 @@ The REJOUICE® website showcases a range of animated pages using GSAP, ScrollTri
 To get started with the project locally, follow these steps:
 
 1. **Clone the Repository**:
+2.
     ```bash
-    git clone [<repository-url>](https://github.com/SatyamGupta32/rejouice.git)
+     git clone https://github.com/SatyamGupta32/rejouice.git
     ```
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
     Make sure you have `npm` or `yarn` installed. Then, run:
     ```bash
     npm install
@@ -32,7 +33,7 @@ To get started with the project locally, follow these steps:
     yarn install
     ```
 
-3. **Build and Serve**:
+4. **Build and Serve**:
     ```bash
     npm run build
     npm start
@@ -41,7 +42,7 @@ To get started with the project locally, follow these steps:
     yarn start
     ```
 
-4. **Open in Browser**:
+5. **Open in Browser**:
     Navigate to `http://localhost:3000` (or the port specified) to view the website.
 
 ## Dependencies
