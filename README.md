@@ -21,8 +21,7 @@ To get started with the project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone [<repository-url>](https://github.com/SatyamGupta32/rejouice.git)
     ```
 
 2. **Install Dependencies**:
