@@ -19,8 +19,7 @@ The REJOUICE® website showcases a range of animated pages using GSAP, ScrollTri
 
 To get started with the project locally, follow these steps:
 
-1. **Clone the Repository**:
-2.
+## Clone the Repository:
     ```bash
      git clone https://github.com/SatyamGupta32/rejouice.git
     ```
